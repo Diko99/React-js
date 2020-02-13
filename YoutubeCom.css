@@ -1,0 +1,44 @@
+.time{
+    display: inline-block;
+}
+.card{
+    background-image: linear-gradient(120deg, #fdfcfba6 0%, #cf9361d5 100%);
+}
+.time{
+    position: relative;
+    top: -30px;
+    left: 75%;
+    text-align: center;
+    background-color: black;
+    color: white;
+    width: 50px;
+}
+.tombol {
+    width: 100%;
+    height: auto;
+    border-radius: 20px;
+    background-color: rgb(122, 114, 114);
+    color: rgb(228, 226, 226);
+    box-shadow: 1px 4px #00000086;
+    border-style: non;
+}
+.tombol:hover {
+    overflow: hidden;
+    width: 100%;
+    height: auto;
+    border-radius: 20px;
+    background-color: rgb(160, 151, 151);
+    color: rgb(90, 90, 90);
+    box-shadow: 1px 4px #f1e0e086;
+}
+
+@media screen and (max-width: 600px) {
+    .col-md-3 {
+        display: flex;
+
+        align-items: center ;
+        display: grid;
+        margin-top: 20px;
+    }  
+
+}

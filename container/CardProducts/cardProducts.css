@@ -1,0 +1,53 @@
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    font-family: arial;
+    display: inline-block;
+}
+.logos{
+    width: 50px;
+}
+.keranjang{
+    width: 50px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.count{
+    margin-left: 10px;
+    font-size: 30px;
+    position: relative;
+    top: 5px;    
+}
+.navbar {
+    background-color: rgb(92, 206, 92);
+}
+.btn {
+    margin-top: 20px;
+    width: 50px;
+}.btn:hover {
+    margin-top: 20px;
+    width: 50px;
+    background-image: linear-gradient(to bottom right, rgb(98, 226, 76), rgb(33, 73, 28));
+    border: none;
+}
+h4{
+    border-style: 2px solid black;
+    padding: 20px;
+    height: 90%;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+    background-image: linear-gradient(to bottom right, rgb(98, 226, 76), rgb(18, 61, 12));
+}
+p{
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+}
+  .price {
+    color: rgb(0, 0, 0);
+    font-size: 22px;
+  }
+  
+
+  

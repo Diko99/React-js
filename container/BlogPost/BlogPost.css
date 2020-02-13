@@ -1,0 +1,21 @@
+.container{
+    background-color: transparent;
+    width: 80%;
+    height: 100%;
+}
+.card{
+    width: 200px;
+    height: 200px;
+    box-shadow: 10px 10px 10px 1px rgb(207, 201, 201);
+    border-radius: 20px;
+    background-image: linear-gradient(to right, rgb(255, 255, 255), rgba(161, 161, 161, 0.691));
+}
+img{
+    border-radius: 20px;
+    width: 100%;
+    height: 30vh;
+}
+textarea{
+    border-radius: 5px;
+    border-style: 1px solid #e70000;
+}
